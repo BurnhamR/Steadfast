@@ -1,5 +1,7 @@
 # Steadfast2
 
+##This build is DEPERECATED and made for Minecraft Pocket Edition 0.14, This shouldnt be used! Its simple now an archive of an old system!
+
 ## Getting Started
 Steadfast is a project for backporting new Minecraft: Pocket Edition changes to older Pocketmine versions for better stability and performance, while retaining as many features from the new versions as possible. It's currently in production on Lifeboat Survival Games' main servers.
 
